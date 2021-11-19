@@ -13,3 +13,4 @@
 - deu erro
 - para arrumar o erro deletei a pasta de teste que havia feito e estava junto com a pasta da atividade.
 - exclui tambem o o repositorio no GitHub e criei outro, e refiz todo o processo de linkar novamente e deu certo.
+tentando enviar outra alteração deu errado!!!!
