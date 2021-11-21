@@ -1,1 +1,2 @@
-meu git ignore
+meu git ignore.
+deveria ser fácil mas nao foi bem assim ,por isso vamos tentatndo de qualquer forma 
