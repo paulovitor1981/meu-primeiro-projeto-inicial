@@ -15,4 +15,5 @@
 - exclui tambem o o repositorio no GitHub e criei outro, e refiz todo o processo de linkar novamente e deu certo.
 tentando enviar outra alteração deu errado!!!!
 refiz mais uma alteração.para ver se consigo enviar para o git hub.
+nova alteração no git hub
 
